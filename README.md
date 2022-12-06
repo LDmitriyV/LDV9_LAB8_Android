@@ -1,14 +1,6 @@
-# TSN_DEMO_08_JSOUP_MICRO
-Технология JSOUP для работы с html
-
-_Пример работы с JSOUP (курсы валют):_
-
+# LDV9_LAB8_Android
+Практическая работа №8 <br />
+<br />
+**Выполнил Лось Д.В, ИС-402**
+<br />
 ![Screenshot](screenshot.png)
-
-![Screenshot](jsoup1.jpg)
-
-![Screenshot](jsoup2.jpg)
-
-![Screenshot](jsoup3.jpg)
-
-https://youtu.be/Zp6ohixq1wY
